@@ -1,6 +1,6 @@
 # limon_melomix
 
-A new Flutter project of Music Box
+A new Flutter project of Music Box player in different design 
 
 ## Getting Started
 
